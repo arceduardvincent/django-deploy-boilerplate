@@ -1,1 +1,1 @@
-# django-deploy-boilerplate-
+# django-deploy-boilerplate
